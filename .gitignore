@@ -1,0 +1,4 @@
+build/**
+layers/meta-oe/**
+layers/poky/**
+layers/meta-rpi/**
