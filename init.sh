@@ -9,6 +9,7 @@ LAYERS=(
 "meta-oe/meta-python"
 "meta-oe/meta-networking"
 "meta-rpi"
+"meta-cd"
 )
 
 MACHINE="raspberrypi3"
