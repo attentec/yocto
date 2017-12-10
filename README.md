@@ -6,8 +6,11 @@ Clone this repo:
 
 Enter cloned repo and clone depencies:
 > cd yocto/
+Clone poky
 > git clone -b morty git://git.yoctoproject.org/poky layers/poky
+Clone oe
 > git clone -b morty git://git.openembedded.org/meta-openembedded layers/meta-oe
+Clone raspberry pi
 > git clone -b morty git://git.yoctoproject.org/meta-raspberrypi layers/meta-rpi
 
 
